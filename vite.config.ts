@@ -7,6 +7,6 @@ export default defineConfig({
     tailwindcss(),
     react(),
   ],
-   base: '/guide'
+   base: '/survival-guide'
 })
 

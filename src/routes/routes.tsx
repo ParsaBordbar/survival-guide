@@ -10,5 +10,6 @@ interface Route {
   }
   
 export const routes: Route[] = [
+    { path: '/', Component: Survival },
     { path: '/guide', Component: Survival },
 ];

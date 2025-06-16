@@ -10,7 +10,7 @@ export interface copyType {
 export interface cardType {
     title: string, 
     desc?: string, 
-    kind: string, 
+    kind?: string, 
     tags?: tagType[], 
     icon: string, 
     imgUrl?: string,
